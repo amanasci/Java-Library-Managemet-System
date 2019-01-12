@@ -16,5 +16,5 @@ Either of the two can be used by you with proper setup:
 
 
 
-> **Contact** kumaramanasci@gmail.com **for help or visit** amanasci.github.io **for any contact updates or info.** 
+> **Contact** kumaramanasci@gmail.com **for help or visit** (amanasci.github.io) **for any contact updates or info.** 
 
