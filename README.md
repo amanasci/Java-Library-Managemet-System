@@ -13,8 +13,3 @@ Either of the two can be used by you with proper setup:
 
 *This Project was created using NetBeans IDE for ease in development.*
 
-
-
-
-> **Contact** kumaramanasci@gmail.com **for help or visit** (amanasci.github.io) **for any contact updates or info.** 
-
